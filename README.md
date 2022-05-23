@@ -1,6 +1,6 @@
 # onboarding-exercise-nasa
 
-- Clone the depencency typing: 
+- Clone the project typing: 
 
 `git clone git@github.com:SimoneBrusa/onboarding-exercise-nasa.git`
 
