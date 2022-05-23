@@ -1,9 +1,11 @@
 # onboarding-exercise-nasa
 
 Download the dependencies typing:
+
 go get -u
 
 Build the project typing:
+
 go build
 
 Run your application typing:
