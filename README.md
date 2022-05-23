@@ -11,4 +11,5 @@
 - Run your application typing:
 
 `onboarding-nasa.exe (on Windows)`
+
 `./onboarding-nasa (on macOS or Linux)`
