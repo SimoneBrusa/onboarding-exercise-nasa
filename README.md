@@ -1,14 +1,14 @@
 # onboarding-exercise-nasa
 
-Download the dependencies typing:
+- Download the dependencies typing:
 
-go get -u
+`go get -u`
 
-Build the project typing:
+- Build the project typing:
 
-go build
+`go build`
 
-Run your application typing:
+- Run your application typing:
 
-onboarding-nasa.exe (on Windows)
-./onboarding-nasa (on macOS or Linux)
+`onboarding-nasa.exe (on Windows)`
+`./onboarding-nasa (on macOS or Linux)`
