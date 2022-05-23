@@ -17,3 +17,5 @@
 `onboarding-nasa.exe (on Windows)`
 
 `./onboarding-nasa (on macOS or Linux)`
+
+- To download pictures simply send a GET request to http://localhost:8080/pictures/2022-05-18 (this will download pictures from 2022-05-18) from Postman
