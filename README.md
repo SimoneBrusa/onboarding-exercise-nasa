@@ -1,5 +1,9 @@
 # onboarding-exercise-nasa
 
+- Clone the depencency typing: 
+
+`git clone git@github.com:SimoneBrusa/onboarding-exercise-nasa.git`
+
 - Download the dependencies typing:
 
 `go get -u`
