@@ -78,6 +78,7 @@ func DownloadPictures(picture Picture, date string) error {
 	err := os.Mkdir(date, os.ModePerm)
 	if err != nil {
 		log.Printf("Error while creating the folder: %v", err)
+		return err
 	}
 	err = os.Chdir(date)
 	if err != nil {
@@ -110,6 +111,7 @@ func DownloadPictures(picture Picture, date string) error {
 	err = os.Chdir("..")
 	if err != nil {
 		log.Printf("Error while changing the folder: %v", err)
+		return err
 	}
 	return nil
 }
